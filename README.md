@@ -1,5 +1,7 @@
 🧮 Advanced BMI Calculator using Logic Gates
 
+Link:- https://jaiakasht.github.io/BMI-CALCULATOR-USING-LOGIC-GATE/
+
 An interactive BMI (Body Mass Index) Calculator that visually demonstrates how digital logic gates (AND, OR, NOT, XOR, NAND, NOR) can be applied to compute BMI categories.
 This project blends health awareness with digital logic design, creating a fun and educational web tool for students and enthusiasts.
 
