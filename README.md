@@ -1,6 +1,6 @@
 # BMI-CALCULATOR-USING LOGIC GATE
 
-Link: http://127.0.0.1:5500/adv.html
+Link: [http://127.0.0.1:5500/adv.html](https://jaiakasht.github.io/BMI-CALCULATOR-USING-LOGIC-GATE/)
 
 1) Implementation
 A web-based Body Mass Index (BMI) calculator that demonstrates the practical application of digital logic gates (AND, OR, NOT, XOR, NAND, NOR) in health calculations.
